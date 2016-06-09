@@ -1,0 +1,14 @@
+{
+  "name": "jakeBot",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "discordie": "0.6.5",
+    "performance-now": "^0.2.0",
+    "request": "^2.7.0",
+    "colors": "^1.1.2",
+    "raven": "^0.11.0",
+    "git-rev": "^0.2.1",
+    "cli-table2": "^0.2.0"
+  }
+}

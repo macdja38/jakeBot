@@ -1,0 +1,8 @@
+{
+  "global-log": "id",
+  "managers": [],
+  "sentry": "SENTRY_DSN",
+  "*": {
+    "prefix": "!!!"
+  }
+}
