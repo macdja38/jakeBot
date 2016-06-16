@@ -9,6 +9,9 @@
     "colors": "^1.1.2",
     "raven": "^0.11.0",
     "git-rev": "^0.2.1",
-    "cli-table2": "^0.2.0"
+    "cli-table2": "^0.2.0",
+    "node-mysql": "^0.4.2",
+    "mysql": "^2.11.1",
+    "sqlstring": "^2.0.1"
   }
 }

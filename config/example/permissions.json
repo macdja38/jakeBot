@@ -1,0 +1,9 @@
+{
+  "global_roles": {
+    "jake": [],
+    "admin": [],
+    "moderator": [],
+    "user": [],
+    "blacklisted": []
+  }
+}
