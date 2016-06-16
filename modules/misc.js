@@ -23,6 +23,17 @@ module.exports = class misc {
                     command.msg.reply("Pong");
                     return true
                 }
+            },
+            {
+                triggers: ["lmgtfy"],
+                level: "user",
+                check: (command)=> {
+                    return !!command
+                },
+                execute: (command)=> {
+                    command.msg.reply(`http://en.lmgtfy.com/?q=${command.args.join("+")}`);
+                    return true
+                }
             }
         ]
 
